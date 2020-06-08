@@ -1,9 +1,9 @@
 # flutter_building_layouts
 
-Flutterの「Building layouts」チュートリアル。
+Flutterのチュートリアル。  
 https://flutter.dev/docs/development/ui/layout/tutorial
 
-![Screen Shot](/images/screen_shot.png)
+<img src="/images/screen_shot.png" width="320px">
 
 ## Getting Started
 
