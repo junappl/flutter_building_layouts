@@ -19,10 +19,10 @@ class MyApp extends StatelessWidget {
     );
 
     return MaterialApp(
-      title: 'Flutter layout demo',
+      title: 'Flutter Tutorial',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Flutter layout demo'),
+          title: Text('Flutter Tutorial'),
         ),
         body: Column(
           children: [
