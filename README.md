@@ -1,6 +1,6 @@
-# flutter_building_layouts
+# flutter_tutorial
 
-Flutterのチュートリアル。  
+A Flutter tutorial project.  
 https://flutter.dev/docs/development/ui/layout/tutorial
 
 <img src="/images/screen_shot.png" width="320px">
